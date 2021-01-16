@@ -10,5 +10,9 @@
 
 
 ### 기록
-- ~ing <a href="">이것이 자바다</a>
-- ~ing <a href="">스프링부트와 AWS로 혼자 구현하는 웹 서비스</a>
+- ~ing <a href="https://github.com/sersue/ReadingRecord/tree/master/이것이%20자바다">이것이 자바다</a>
+- ~ing <a href="https://github.com/sersue/ReadingRecord/tree/master/스프링부트와%20AWS로%20혼자%20구현하는%20웹%20서비스">스프링부트와 AWS로 혼자 구현하는 웹 서비스</a>
+    - <a href="https://github.com/sersue/springboot_webservice"> 실습코드 repository</a>
+
+
+
